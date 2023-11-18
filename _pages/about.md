@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-- I am a second year PhD student at Yale University, Yale Applied Cryptography Laboratory (YACL). And I am fortunate to be advised by Prof. Charalampos Papamanthou and Prof. Fan Zhang.
+- I am a second year PhD student at [Yale University](https://www.yale.edu/), [Yale Applied Cryptography Laboratory](https://sites.google.com/view/yacl) (YACL). And I am fortunate to be advised by [Prof. Charalampos Papamanthou](https://www.cs.yale.edu/homes/cpap/) and [Prof. Fan Zhang](https://www.fanzhang.me/).
 
-- Before coming to Yale, I obtained my Bachelor’s degree at Shanghai Jiao Tong University.
+- Before coming to Yale, I obtained my Bachelor’s degree at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 
 - My main research interests lie in the general area of applied cryptography, currently I'm working on optimizing the performance of merkle tree in blockchain protocols.
