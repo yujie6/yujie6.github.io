@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Shanghai Jiao Tong University, 2018-2022
+* B.S. at Shanghai Jiao Tong University, 2018-2022
 * Ph.D at Yale Univeristy, 2022-now 
 
 
