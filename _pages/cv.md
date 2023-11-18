@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Experience"
+permalink: /experience/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,14 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. at Shanghai Jiao Tong University, 2018-2022
-* Ph.D at Yale Univeristy, 2022-now 
+* B.S. at Shanghai Jiao Tong University, 2018 - 2022
+* Ph.D at Yale Univeristy, 2022 - now 
 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 
